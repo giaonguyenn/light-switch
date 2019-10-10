@@ -2,6 +2,7 @@
   "name": "light-switch",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://giaonguyenn.github.io/light-switch",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
@@ -30,6 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://giaonguyenn.github.io/light-switch"
+  }
 }
